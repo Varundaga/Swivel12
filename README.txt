@@ -1,0 +1,5 @@
+Swivel'12 - A National Level Technical Symposium Organised by Misrimal Navajee Munoth Jain Engineering College, Chennai- 97 (India)
+
+This Website was created to serve all the Information about the Symposium including Various Technical Events, Non-Technical Events, and Workshops.
+
+This site is developed using HTML, CSS and JavaScript no Server Side Stuffs.
